@@ -1,0 +1,96 @@
+{
+  "common": {
+    "add": "เพิ่ม",
+    "edit": "แก้ไข",
+    "delete": "ลบ",
+    "save": "บันทึก",
+    "cancel": "ยกเลิก",
+    "close": "ปิด",
+    "confirm": "ยืนยัน",
+    "loading": "กำลังโหลด...",
+    "error": "ข้อผิดพลาด",
+    "success": "สำเร็จ",
+    "search": "ค้นหา",
+    "filter": "กรอง",
+    "sort": "เรียงลำดับ",
+    "online": "ออนไลน์",
+    "offline": "ออฟไลน์"
+  },
+  "nav": {
+    "inbox": "กล่องจดหมาย",
+    "today": "วันนี้",
+    "completed": "เสร็จแล้ว",
+    "tags": "แท็ก"
+  },
+  "todo": {
+    "title": "หัวข้อ",
+    "notes": "บันทึก",
+    "dueDate": "กำหนดส่ง",
+    "priority": "ความสำคัญ",
+    "tags": "แท็ก",
+    "completed": "เสร็จแล้ว",
+    "pending": "รอดำเนินการ",
+    "overdue": "เกินกำหนด",
+    "today": "วันนี้",
+    "tomorrow": "พรุ่งนี้",
+    "noTodos": "ไม่พบรายการ Todo",
+    "addTodo": "เพิ่ม Todo ใหม่",
+    "editTodo": "แก้ไข Todo",
+    "deleteTodo": "ลบ Todo",
+    "markComplete": "ทำเครื่องหมายว่าเสร็จ",
+    "markIncomplete": "ทำเครื่องหมายว่ายังไม่เสร็จ",
+    "bulkActions": "การดำเนินการหลายรายการ",
+    "selectAll": "เลือกทั้งหมด",
+    "deselectAll": "ยกเลิกการเลือกทั้งหมด",
+    "deleteSelected": "ลบรายการที่เลือก",
+    "completeSelected": "ทำเครื่องหมายรายการที่เลือกว่าเสร็จ"
+  },
+  "priority": {
+    "low": "ต่ำ",
+    "normal": "ปกติ",
+    "high": "สูง"
+  },
+  "messages": {
+    "todoAdded": "เพิ่ม Todo สำเร็จแล้ว",
+    "todoUpdated": "อัปเดต Todo สำเร็จแล้ว",
+    "todoDeleted": "ลบ Todo สำเร็จแล้ว",
+    "todosCompleted": "ทำเครื่องหมาย Todo ว่าเสร็จแล้ว",
+    "todosDeleted": "ลบ Todo สำเร็จแล้ว",
+    "exportSuccess": "ส่งออก Todo สำเร็จแล้ว",
+    "importSuccess": "นำเข้า Todo สำเร็จแล้ว",
+    "invalidFile": "รูปแบบไฟล์ไม่ถูกต้อง",
+    "networkError": "เกิดข้อผิดพลาดเครือข่าย",
+    "databaseError": "เกิดข้อผิดพลาดฐานข้อมูล",
+    "confirmDelete": "คุณแน่ใจหรือไม่ว่าต้องการลบ Todo นี้?",
+    "noSearchResults": "ไม่พบผลการค้นหา",
+    "tryDifferentSearch": "ลองใช้คำค้นหาอื่น",
+    "createFirstTodo": "สร้าง Todo แรกของคุณเพื่อเริ่มต้น",
+    "noTodosToday": "ไม่มี Todo สำหรับวันนี้",
+    "createTodoForToday": "สร้าง Todo สำหรับวันนี้",
+    "noCompletedTodos": "ไม่มี Todo ที่เสร็จแล้ว",
+    "completeFirstTodo": "ทำ Todo แรกของคุณให้เสร็จ"
+  },
+  "offline": {
+    "title": "คุณกำลังออฟไลน์",
+    "description": "ไม่ต้องกังวล! Todo ของคุณถูกบันทึกไว้ในเครื่องและจะซิงค์เมื่อคุณกลับมาออนไลน์",
+    "backToApp": "กลับไปที่แอป"
+  },
+  "settings": {
+    "language": "ภาษา",
+    "theme": "ธีม",
+    "light": "สว่าง",
+    "dark": "มืด",
+    "system": "ระบบ",
+    "export": "ส่งออก Todo",
+    "import": "นำเข้า Todo",
+    "clearData": "ล้างข้อมูลทั้งหมด",
+    "confirmClear": "คุณแน่ใจหรือไม่ว่าต้องการล้างข้อมูลทั้งหมด? การดำเนินการนี้ไม่สามารถยกเลิกได้"
+  },
+  "pwa": {
+    "installPrompt": "ติดตั้งแอปนี้บนอุปกรณ์ของคุณเพื่อประสบการณ์ที่ดีกว่า",
+    "install": "ติดตั้ง",
+    "updateAvailable": "มีเวอร์ชันใหม่",
+    "updateNow": "อัปเดตเลย",
+    "updateLater": "อัปเดตทีหลัง"
+  }
+}
